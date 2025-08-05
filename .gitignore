@@ -1,0 +1,20 @@
+# macOS sistem dosyaları
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Kaynak/önizleme ikon dosyaları
+Icon?
+._*
+
+# Spotlight ve çöp kutusu
+.Spotlight-V100
+.Trashes
+
+# Geçici ve sistem klasörleri
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
