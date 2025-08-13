@@ -1,0 +1,74 @@
+[
+  {
+    "key": "cgfs05",
+    "model": "CHIRPS-GEFS",
+    "times": [
+      "20250813"
+    ],
+    "files": {
+      "20250813": {
+        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/05day/precip_mean/data-mean_20250813_20250817.tif",
+        "last_modified": "Wed, 13 Aug 2025 16:13:45 GMT",
+        "size": "51120890"
+      }
+    }
+  },
+  {
+    "key": "cgfs10",
+    "model": "CHIRPS-GEFS",
+    "times": [
+      "20250813"
+    ],
+    "files": {
+      "20250813": {
+        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/10day/precip_mean/data-mean_20250813_20250822.tif",
+        "last_modified": "Wed, 13 Aug 2025 16:13:51 GMT",
+        "size": "52320028"
+      }
+    }
+  },
+  {
+    "key": "chirpsv3m",
+    "model": "CHIRPS-V3",
+    "times": [
+      "20250101",
+      "20250201",
+      "20250301",
+      "20250401",
+      "20250501",
+      "20250601"
+    ],
+    "files": {
+      "20250101": {
+        "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/chirps-v3.0.2025.01.tif",
+        "last_modified": "Thu, 13 Feb 2025 23:06:15 GMT",
+        "size": "21628766"
+      },
+      "20250201": {
+        "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/chirps-v3.0.2025.02.tif",
+        "last_modified": "Fri, 14 Mar 2025 18:36:48 GMT",
+        "size": "21789414"
+      },
+      "20250301": {
+        "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/chirps-v3.0.2025.03.tif",
+        "last_modified": "Sat, 12 Apr 2025 17:29:24 GMT",
+        "size": "22157684"
+      },
+      "20250401": {
+        "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/chirps-v3.0.2025.04.tif",
+        "last_modified": "Wed, 14 May 2025 00:06:24 GMT",
+        "size": "21849234"
+      },
+      "20250501": {
+        "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/chirps-v3.0.2025.05.tif",
+        "last_modified": "Mon, 16 Jun 2025 16:10:30 GMT",
+        "size": "22588100"
+      },
+      "20250601": {
+        "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/chirps-v3.0.2025.06.tif",
+        "last_modified": "Tue, 15 Jul 2025 18:32:24 GMT",
+        "size": "22893744"
+      }
+    }
+  }
+]
