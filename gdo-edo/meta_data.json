@@ -375,12 +375,13 @@
       "20250201",
       "20250301",
       "20250401",
-      "20250501"
+      "20250501",
+      "20250601"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_GRACE_Total_Water_Storage_Anomaly/ver2-1-1/twsan_m_gdo_20250101_20250501_m.zip",
-      "end": "20250501",
-      "fetched_at": "2025-08-14T20:45:16Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_GRACE_Total_Water_Storage_Anomaly/ver2-1-1/twsan_m_gdo_20250101_20250601_m.zip",
+      "end": "20250601",
+      "fetched_at": "2025-08-20T20:00:06Z"
     }
   },
   {
@@ -407,12 +408,13 @@
       "20250621",
       "20250701",
       "20250711",
-      "20250721"
+      "20250721",
+      "20250801"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_gdo_20250101_20250721_t.zip",
-      "end": "20250721",
-      "fetched_at": "2025-08-14T20:45:44Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_gdo_20250101_20250801_t.zip",
+      "end": "20250801",
+      "fetched_at": "2025-08-20T20:00:33Z"
     }
   },
   {
@@ -439,12 +441,13 @@
       "20250621",
       "20250701",
       "20250711",
-      "20250721"
+      "20250721",
+      "20250801"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_edo_20250101_20250721_t.zip",
-      "end": "20250721",
-      "fetched_at": "2025-08-14T21:36:23Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_edo_20250101_20250801_t.zip",
+      "end": "20250801",
+      "fetched_at": "2025-08-20T20:00:53Z"
     }
   }
 ]
