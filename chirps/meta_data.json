@@ -3,13 +3,13 @@
     "key": "cgfs05",
     "model": "CHIRPS-GEFS",
     "times": [
-      "20250820"
+      "20250822"
     ],
     "files": {
-      "20250820": {
-        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/05day/precip_mean/data-mean_20250820_20250824.tif",
-        "last_modified": "Wed, 20 Aug 2025 09:55:22 GMT",
-        "size": "51715322"
+      "20250822": {
+        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/05day/precip_mean/data-mean_20250822_20250826.tif",
+        "last_modified": "Fri, 22 Aug 2025 09:56:04 GMT",
+        "size": "51485002"
       }
     }
   },
@@ -17,13 +17,13 @@
     "key": "cgfs10",
     "model": "CHIRPS-GEFS",
     "times": [
-      "20250820"
+      "20250822"
     ],
     "files": {
-      "20250820": {
-        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/10day/precip_mean/data-mean_20250820_20250829.tif",
-        "last_modified": "Wed, 20 Aug 2025 09:55:31 GMT",
-        "size": "53312600"
+      "20250822": {
+        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/10day/precip_mean/data-mean_20250822_20250831.tif",
+        "last_modified": "Fri, 22 Aug 2025 09:56:13 GMT",
+        "size": "52682384"
       }
     }
   },
