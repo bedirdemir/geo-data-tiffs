@@ -291,12 +291,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Low_Flow_Index/ver3-1-0/lfinx_m_eul_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-14T21:27:58Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Low_Flow_Index/ver3-1-0/lfinx_m_eul_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-08-24T10:16:39Z"
     }
   },
   {
@@ -324,12 +325,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Soil_Moisture_Index_Anomaly/ver3-0-2/smian_m_eul_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-14T21:29:27Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Soil_Moisture_Index_Anomaly/ver3-0-2/smian_m_eul_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-08-24T10:17:58Z"
     }
   },
   {
