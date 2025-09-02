@@ -24,12 +24,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_CHIRPS_Standardized_Precipitation_Index_SPI1/ver3-0-0/spc01_m_gdo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-15T21:54:15Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_CHIRPS_Standardized_Precipitation_Index_SPI1/ver3-0-0/spc01_m_gdo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:13:02Z"
     }
   },
   {
@@ -57,12 +58,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_CHIRPS_Standardized_Precipitation_Index_SPI3/ver3-0-0/spc03_m_gdo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-15T21:55:48Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_CHIRPS_Standardized_Precipitation_Index_SPI3/ver3-0-0/spc03_m_gdo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:14:39Z"
     }
   },
   {
@@ -108,12 +110,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Evapotranspiration_Index_SPEI1/ver1-0-0/spe01_m_gdo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-17T21:28:13Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Evapotranspiration_Index_SPEI1/ver1-0-0/spe01_m_gdo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:10:01Z"
     }
   },
   {
@@ -141,12 +144,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Evapotranspiration_Index_SPEI3/ver1-0-0/spe03_m_gdo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-17T21:28:35Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Evapotranspiration_Index_SPEI3/ver1-0-0/spe03_m_gdo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:10:33Z"
     }
   },
   {
@@ -174,12 +178,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Index_SPI1/ver2-0-0/spa01_m_gdo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-17T21:28:56Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Index_SPI1/ver2-0-0/spa01_m_gdo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:11:04Z"
     }
   },
   {
@@ -207,12 +212,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Index_SPI3/ver2-0-0/spa03_m_gdo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-17T21:29:16Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Index_SPI3/ver2-0-0/spa03_m_gdo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:11:32Z"
     }
   },
   {
@@ -258,12 +264,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Combined_Drought_Indicator/ver4-0-0/cdinx_m_edo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-22T21:05:47Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Combined_Drought_Indicator/ver4-0-0/cdinx_m_edo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:17:25Z"
     }
   },
   {
@@ -412,12 +419,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_gdo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-20T20:00:33Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_gdo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:17:23Z"
     }
   },
   {
@@ -445,12 +453,13 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_edo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-20T20:00:53Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_edo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-02T19:17:40Z"
     }
   },
   {
@@ -512,12 +521,13 @@
       "20250711",
       "20250721",
       "20250801",
-      "20250811"
+      "20250811",
+      "20250821"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Soil_Moisture_Index_Anomaly/ver3-0-1/smang_m_gdo_20250101_20250811_t.zip",
-      "end": "20250811",
-      "fetched_at": "2025-08-22T21:05:45Z"
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Soil_Moisture_Index_Anomaly/ver3-0-1/smang_m_gdo_20250101_20250821_t.zip",
+      "end": "20250821",
+      "fetched_at": "2025-09-02T19:16:55Z"
     }
   }
 ]
