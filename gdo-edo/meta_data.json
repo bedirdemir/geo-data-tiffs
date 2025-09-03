@@ -30,8 +30,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_CHIRPS_Standardized_Precipitation_Index_SPI1/ver3-0-0/spc01_m_gdo_20250101_20250811_t.zip",
       "end": "20250811",
-      "fetched_at": "2025-09-02T19:13:02Z"
-    }
+      "fetched_at": "2025-09-03T20:25:13Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "spc03",
@@ -64,8 +72,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_CHIRPS_Standardized_Precipitation_Index_SPI3/ver3-0-0/spc03_m_gdo_20250101_20250811_t.zip",
       "end": "20250811",
-      "fetched_at": "2025-09-02T19:14:39Z"
-    }
+      "fetched_at": "2025-09-03T20:27:04Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "spc06",
@@ -82,8 +98,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_CHIRPS_Standardized_Precipitation_Index_SPI6/ver3-0-0/spc06_m_gdo_20250101_20250701_m.zip",
       "end": "20250701",
-      "fetched_at": "2025-08-14T20:44:40Z"
-    }
+      "fetched_at": "2025-09-03T20:27:39Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "spe01",
@@ -116,8 +140,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Evapotranspiration_Index_SPEI1/ver1-0-0/spe01_m_gdo_20250101_20250811_t.zip",
       "end": "20250811",
-      "fetched_at": "2025-09-02T19:10:01Z"
-    }
+      "fetched_at": "2025-09-03T20:21:44Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "spe03",
@@ -150,8 +182,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Evapotranspiration_Index_SPEI3/ver1-0-0/spe03_m_gdo_20250101_20250811_t.zip",
       "end": "20250811",
-      "fetched_at": "2025-09-02T19:10:33Z"
-    }
+      "fetched_at": "2025-09-03T20:22:35Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "spa01",
@@ -184,8 +224,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Index_SPI1/ver2-0-0/spa01_m_gdo_20250101_20250811_t.zip",
       "end": "20250811",
-      "fetched_at": "2025-09-02T19:11:04Z"
-    }
+      "fetched_at": "2025-09-03T20:22:57Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "spa03",
@@ -218,8 +266,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Index_SPI3/ver2-0-0/spa03_m_gdo_20250101_20250811_t.zip",
       "end": "20250811",
-      "fetched_at": "2025-09-02T19:11:32Z"
-    }
+      "fetched_at": "2025-09-03T20:23:21Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "spa06",
@@ -236,8 +292,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Index_SPI6/ver2-0-0/spa06_m_gdo_20250101_20250701_m.zip",
       "end": "20250701",
-      "fetched_at": "2025-08-14T20:40:46Z"
-    }
+      "fetched_at": "2025-09-03T20:23:28Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "cdinx",
@@ -271,7 +335,11 @@
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Combined_Drought_Indicator/ver4-0-0/cdinx_m_edo_20250101_20250811_t.zip",
       "end": "20250811",
       "fetched_at": "2025-09-02T19:17:25Z"
-    }
+    },
+    "countries": [
+      "az",
+      "tr"
+    ]
   },
   {
     "key": "lfinx",
@@ -299,13 +367,18 @@
       "20250711",
       "20250721",
       "20250801",
-      "20250811"
+      "20250811",
+      "20250821"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Low_Flow_Index/ver3-1-0/lfinx_m_eul_20250101_20250811_t.zip",
-      "end": "20250811",
-      "fetched_at": "2025-08-24T10:16:39Z"
-    }
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Low_Flow_Index/ver3-1-0/lfinx_m_eul_20250101_20250821_t.zip",
+      "end": "20250821",
+      "fetched_at": "2025-09-03T20:31:06Z"
+    },
+    "countries": [
+      "az",
+      "tr"
+    ]
   },
   {
     "key": "smian",
@@ -333,13 +406,18 @@
       "20250711",
       "20250721",
       "20250801",
-      "20250811"
+      "20250811",
+      "20250821"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Soil_Moisture_Index_Anomaly/ver3-0-2/smian_m_eul_20250101_20250811_t.zip",
-      "end": "20250811",
-      "fetched_at": "2025-08-24T10:17:58Z"
-    }
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Soil_Moisture_Index_Anomaly/ver3-0-2/smian_m_eul_20250101_20250821_t.zip",
+      "end": "20250821",
+      "fetched_at": "2025-09-03T20:32:35Z"
+    },
+    "countries": [
+      "az",
+      "tr"
+    ]
   },
   {
     "key": "spa24",
@@ -356,8 +434,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_ERA5_Standardized_Precipitation_Index_SPI24/ver2-0-0/spa24_m_gdo_20250101_20250701_m.zip",
       "end": "20250701",
-      "fetched_at": "2025-08-14T20:40:55Z"
-    }
+      "fetched_at": "2025-09-03T20:23:36Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "spc24",
@@ -374,8 +460,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_CHIRPS_Standardized_Precipitation_Index_SPI24/ver3-0-0/spc24_m_gdo_20250101_20250701_m.zip",
       "end": "20250701",
-      "fetched_at": "2025-08-14T20:45:14Z"
-    }
+      "fetched_at": "2025-09-03T20:28:16Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "twsan",
@@ -391,8 +485,16 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_GRACE_Total_Water_Storage_Anomaly/ver2-1-1/twsan_m_gdo_20250101_20250601_m.zip",
       "end": "20250601",
-      "fetched_at": "2025-08-20T20:00:06Z"
-    }
+      "fetched_at": "2025-09-03T20:28:18Z"
+    },
+    "countries": [
+      "az",
+      "kg",
+      "kz",
+      "tm",
+      "tr",
+      "uz"
+    ]
   },
   {
     "key": "fpanv",
@@ -425,8 +527,14 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_gdo_20250101_20250811_t.zip",
       "end": "20250811",
-      "fetched_at": "2025-09-02T19:17:23Z"
-    }
+      "fetched_at": "2025-09-03T20:31:02Z"
+    },
+    "countries": [
+      "kg",
+      "kz",
+      "tm",
+      "uz"
+    ]
   },
   {
     "key": "fpanv",
@@ -460,7 +568,11 @@
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/EDO_Fraction_of_Absorbed_Photosynthetically_Active_Radiation_Anomalies_fAPAR_VIIRS/ver3-0-0/fpanv_m_edo_20250101_20250811_t.zip",
       "end": "20250811",
       "fetched_at": "2025-09-02T19:17:40Z"
-    }
+    },
+    "countries": [
+      "az",
+      "tr"
+    ]
   },
   {
     "key": "rdria",
@@ -487,13 +599,20 @@
       "20250701",
       "20250711",
       "20250721",
-      "20250801"
+      "20250801",
+      "20250811"
     ],
     "zip": {
-      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Risk_of_Drought_Impacts_for_Agriculture/ver4-0-0/rdria_m_gdo_20250101_20250801_t.zip",
-      "end": "20250801",
-      "fetched_at": "2025-08-22T21:03:59Z"
-    }
+      "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Risk_of_Drought_Impacts_for_Agriculture/ver4-0-0/rdria_m_gdo_20250101_20250811_t.zip",
+      "end": "20250811",
+      "fetched_at": "2025-09-03T20:28:20Z"
+    },
+    "countries": [
+      "kg",
+      "kz",
+      "tm",
+      "uz"
+    ]
   },
   {
     "key": "smang",
@@ -527,7 +646,13 @@
     "zip": {
       "url": "https://drought.emergency.copernicus.eu/data/Drought_Observatories_datasets/GDO_Soil_Moisture_Index_Anomaly/ver3-0-1/smang_m_gdo_20250101_20250821_t.zip",
       "end": "20250821",
-      "fetched_at": "2025-09-02T19:16:55Z"
-    }
+      "fetched_at": "2025-09-03T20:30:13Z"
+    },
+    "countries": [
+      "kg",
+      "kz",
+      "tm",
+      "uz"
+    ]
   }
 ]
