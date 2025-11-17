@@ -3,7 +3,7 @@
     "key": "cgfs05",
     "model": "CHIRPS-GEFS",
     "times": [
-      "20251024"
+      "20251117"
     ],
     "countries": [
       "ad",
@@ -78,10 +78,10 @@
       "za"
     ],
     "files": {
-      "20251024": {
-        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/05day/precip_mean/data-mean_20251024_20251028.tif",
-        "last_modified": "Fri, 24 Oct 2025 09:55:57 GMT",
-        "size": "51755126"
+      "20251117": {
+        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/05day/precip_mean/data-mean_20251117_20251121.tif",
+        "last_modified": "Mon, 17 Nov 2025 10:57:03 GMT",
+        "size": "50617646"
       }
     }
   },
@@ -89,7 +89,7 @@
     "key": "cgfs10",
     "model": "CHIRPS-GEFS",
     "times": [
-      "20251024"
+      "20251117"
     ],
     "countries": [
       "ad",
@@ -164,10 +164,10 @@
       "za"
     ],
     "files": {
-      "20251024": {
-        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/10day/precip_mean/data-mean_20251024_20251102.tif",
-        "last_modified": "Fri, 24 Oct 2025 09:56:03 GMT",
-        "size": "52601352"
+      "20251117": {
+        "url": "https://data.chc.ucsb.edu/products/EWX/data/forecasts/CHIRPS-GEFS_precip_v12/10day/precip_mean/data-mean_20251117_20251126.tif",
+        "last_modified": "Mon, 17 Nov 2025 10:57:08 GMT",
+        "size": "52690596"
       }
     }
   },
@@ -183,7 +183,8 @@
       "20250601",
       "20250701",
       "20250801",
-      "20250901"
+      "20250901",
+      "20251001"
     ],
     "countries": [
       "ad",
@@ -312,6 +313,11 @@
         "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/chirps-v3.0.2025.09.tif",
         "last_modified": "Wed, 15 Oct 2025 21:17:45 GMT",
         "size": "23852168"
+      },
+      "20251001": {
+        "url": "https://data.chc.ucsb.edu/products/CHIRPS/v3.0/monthly/global/tifs/chirps-v3.0.2025.10.tif",
+        "last_modified": "Fri, 14 Nov 2025 21:53:50 GMT",
+        "size": "22669464"
       }
     }
   }
